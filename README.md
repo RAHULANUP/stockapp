@@ -22,7 +22,7 @@ WiseFunds is a financial analysis and visualization application built using Stre
 ## Technologies Used
 
 - *Frontend:* Streamlit
-- - *Data Processing:* Pandas, NumPy, BeautifulSoup
+- *Data Processing:* Pandas, NumPy, BeautifulSoup
 - *Machine Learning:* Scikit-learn (for predictions)
 - *Visualization:* Plotly, Seaborn, Matplotlib
 - *Data Source:* MoneyControl (Web Scraping)
@@ -33,15 +33,15 @@ WiseFunds is a financial analysis and visualization application built using Stre
 
 Ensure you have Python installed. Then, install dependencies using:
 
-sh
+'''sh
 pip install -r requirements.txt
-
+'''
 
 ### Running the Application
 
-sh
+'''sh
 streamlit run app.py
-
+''
 
 ## Usage
 
